@@ -1,6 +1,7 @@
 # BandaFavorita
 Projeto criado com HTML, CSS e biblioteca Bootstrap.
 Este website é uma página dedicada à banda Silverchair, criada utilizando várias tecnologias web modernas. 
+Utilizados a fonte externa: Crazer-mL13m.ttf
 Abaixo está um resumo técnico detalhado das tecnologias e componentes utilizados:
 
 1. Tecnologias Utilizadas
