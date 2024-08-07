@@ -1,0 +1,100 @@
+body {
+
+	background-color: #000000;
+}
+
+@font-face { /*estilizando uma fonte externa*/
+
+	font-family: crazer-font;
+	src: url(Crazer-mL13m.ttf);
+}
+		
+.tour {
+
+	color: #ffffff;
+	padding-top: 40px;
+	text-align: center;
+	font-family: crazer-font;
+}
+
+#bilhete {
+
+	color: #A9A9A9;
+	text-align: center;
+}
+
+.section {
+
+	color: #A9A9A9;
+	display: flex;
+	flex-direction: column;
+	margin: 10px;
+	padding: 0% 10%;
+}
+
+.li {
+		
+	background-color: #ffffff;
+	list-style: none;
+	padding: 5px;
+	border-bottom: 1px solid gray;
+}
+
+span {
+
+	color: white;
+	background-color: red;
+	padding: 5px;
+}
+
+#span2 {
+
+	background-color: #000000;
+	float: right;
+	border-radius: 50%;
+}
+
+article {
+
+	background-color: black;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 30px;
+	padding: 0% 30% 5% 30%;
+
+}
+
+.span3 {
+
+	background-color: black;
+	margin-left: 5px;
+}
+
+.image {
+
+	padding-top: 5px;
+	padding: 15px;	
+	background-color: white;
+}
+
+#height {
+
+	height: 62%;
+}
+
+.color {
+
+	color: #A9A9A9;
+}
+
+@font-face {
+
+	font-family: crazer-font;
+	src: url(Crazer-mL13m.ttf);
+}
+
+h4 {
+
+	font-family: crazer-font;
+}
