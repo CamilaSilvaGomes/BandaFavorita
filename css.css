@@ -1,0 +1,42 @@
+.fas fa-search {
+
+    color: white;
+}
+
+
+.dropdown-item {
+
+    background-color: black;
+    color: white;
+}
+
+@font-face { /*estilizando uma fonte externa*/
+
+	font-family: crazer-font;
+	src: url(Crazer-mL13m.ttf);
+}
+
+.fontecustom {
+
+	font-family: crazer-font;
+	text-align: center;
+	margin-top: 50px;
+}
+p {
+
+	font-family: Verdana;
+}
+
+#paragrafo-1 {
+
+	font-size: 12px;
+	text-align: center;
+	color: #A9A9A9;
+}
+
+#paragrafo-2 {
+
+	text-align: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
